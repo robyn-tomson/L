@@ -1,0 +1,17 @@
+h1 {
+    font-style: italic;
+    font-size:xx-large;
+}
+p {
+    font-style: italic;
+    font-size: large;
+}
+button {
+    font-style: italic;
+    font-size: large;
+}
+body {
+    background-image: url(wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
